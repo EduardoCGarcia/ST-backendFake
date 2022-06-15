@@ -1,4 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+import { tap } from 'rxjs';
+import { Cientifico } from 'src/app/interfaces/cientifico.interface';
+import { CientificoService } from 'src/app/service/cientifico.service';
 
 @Component({
   selector: 'app-cientificos-page',
@@ -7,9 +10,16 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CientificosPageComponent implements OnInit {
 
-  constructor() { }
+  cientificos !: Cientifico[];
+  
+  constructor(private cientificosSvc: CientificoService) { }
 
   ngOnInit(): void {
+    this.cientificosSvc.getCientifico()
+      .pipe(
+        tap((cientificos: Cientifico[]) => this.cientificos = cientificos)
+      )
+      .subscribe()
   }
 
 }

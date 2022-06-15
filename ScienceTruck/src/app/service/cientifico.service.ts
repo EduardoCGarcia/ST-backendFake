@@ -8,7 +8,7 @@ import { Cientifico } from '../interfaces/cientifico.interface';
 })
 export class CientificoService {
 
-  private apiURL = 'http://localhost:4000/api/Cientificos/';
+  private apiURL = 'http://localhost:3000/Cientificos';
   constructor(private http: HttpClient) { }
 
   getCientifico():Observable<Cientifico[]  >{
