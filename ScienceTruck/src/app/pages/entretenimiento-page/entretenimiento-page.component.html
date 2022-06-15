@@ -1,2 +1,7 @@
-<app-youtube [video]="dataSvc.videoYT"></app-youtube>
-
+<div class="container">
+  <div class="grupo">
+    <div class="contvideos">
+      <app-video [video]="p" *ngFor="let p of video"></app-video>
+    </div>
+  </div>
+</div>
