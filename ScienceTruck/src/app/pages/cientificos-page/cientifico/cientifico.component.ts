@@ -11,6 +11,7 @@ export class CientificoComponent implements OnInit {
   constructor(public data:DataService) { }
 
   ngOnInit(): void {
+    this.data.videoYT = this.data.cientifico.video;
   }
 
 }
