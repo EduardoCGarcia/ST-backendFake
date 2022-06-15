@@ -12,6 +12,7 @@ export class EntretenimientoPageComponent implements OnInit {
   
   videoJS!:VideoYT[];
   videoQU!:VideoYT[];
+  
 
   constructor(public dataSvc:DataService,
     public youtubeSvc:YoutubeVideosService) { 
@@ -29,6 +30,7 @@ export class EntretenimientoPageComponent implements OnInit {
         tap((video: VideoYT[]) => this.videoQU = video)
       )
       .subscribe()
+    
 
       
   }

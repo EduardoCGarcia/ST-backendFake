@@ -20,6 +20,6 @@ export class YoutubeVideosService {
     return this.http.get<VideoYT[]>(this.apiURLQU)
   }
   getVideosSH():Observable<VideoYT[]  >{
-    return this.http.get<VideoYT[]>(this.apiURLQU)
+    return this.http.get<VideoYT[]>(this.apiURLSH)
   }
 }

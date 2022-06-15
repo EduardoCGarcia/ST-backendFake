@@ -16,6 +16,9 @@ import { VideoComponent } from './video/video.component';
     CommonModule,
     EntretenimientoPageRoutingModule,
     ComponentsModule
+  ],
+  exports:[
+    VideoComponent
   ]
 })
 export class EntretenimientoPageModule { }
