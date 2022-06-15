@@ -1,7 +1,37 @@
-<div class="container">
+<!-- <div class="container">
   <div class="grupo">
     <div class="contvideos">
       <app-video [video]="p" *ngFor="let p of video"></app-video>
     </div>
   </div>
+</div> -->
+
+
+<div class="container">
+  <div class="conten">
+      <h1>Javier Santaolalla</h1>
+      <p>En esta sección podrás encontrar algunos de los videos mas visto de Javier Santaolalla, sobre diferentes temas que te causaran gran inquietud y ganas por aprender mas.</p>
+      <a class="btn" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/c/DateunVlog">TODOS</a>
+  </div>
+  
+  <div class="grupo">
+      <!-- <h1 class="title1"><i class="fa-brands fa-js-square"></i> ¿Listo para que te estalle la cabeza?!!</h1> -->
+      <div class="contvideos">   
+        <app-video [video]="p" *ngFor="let p of videoJS"></app-video>     
+      </div>
+  </div>
+  <div class="contenQ">
+      <h1>QuantumFracture</h1>
+      <p>En esta sección podrás encontrar algunos de los videos mas visto de QuantumFracture sobre diferentes temas que te causaran gran inquietud y ganas por aprender mas.</p>
+      <a class="btn" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/QuantumFracture">TODOS</a>
+  </div>
+  
+  <div class="grupo">
+      <!-- <h1 class="title1"><i class="fa-brands fa-js-square"></i> JavaScript</h1> -->
+      <div class="contvideos">   
+        <app-video [video]="p" *ngFor="let p of videoQU"></app-video>     
+      </div>
+  </div>
+
 </div>
+

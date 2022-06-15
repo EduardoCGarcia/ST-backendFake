@@ -10,24 +10,29 @@ import { YoutubeVideosService } from 'src/app/service/youtube-videos.service';
 })
 export class EntretenimientoPageComponent implements OnInit {
   
-  video!:VideoYT[];
+  videoJS!:VideoYT[];
+  videoQU!:VideoYT[];
 
   constructor(public dataSvc:DataService,
     public youtubeSvc:YoutubeVideosService) { 
   }
 
   ngOnInit(): void {
-    this.youtubeSvc.getVideos()
+    this.youtubeSvc.getVideosJS()
       .pipe(
-        tap((video: VideoYT[]) => this.video = video)
+        tap((video: VideoYT[]) => this.videoJS = video)
       )
       .subscribe()
 
-      //this.iniciarVideos()
+    this.youtubeSvc.getVideosQU()
+      .pipe(
+        tap((video: VideoYT[]) => this.videoQU = video)
+      )
+      .subscribe()
+
+      
   }
 
-  iniciarVideos():void{
-    this.dataSvc.videoYT="040mOkRx0Pk";
-  }
+  
 
 }
