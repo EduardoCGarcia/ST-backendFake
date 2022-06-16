@@ -3,17 +3,24 @@ import { tap } from 'rxjs';
 import { VideoYT } from 'src/app/interfaces/video.interface';
 import { DataService } from 'src/app/service/data.service';
 import { YoutubeVideosService } from 'src/app/service/youtube-videos.service';
+import divulgadoresJSON from 'src/assets/json/db.json'
 @Component({
   selector: 'app-entretenimiento-page',
   templateUrl: './entretenimiento-page.component.html',
   styleUrls: ['./entretenimiento-page.component.scss']
 })
-export class EntretenimientoPageComponent implements OnInit {
+export class EntretenimientoPageComponent {
+  
+  videoJS : any = divulgadoresJSON.videos_JS;
+  videoQU : any = divulgadoresJSON.videos_QU;
+  
+
+}
+/* export class EntretenimientoPageComponent implements OnInit {
   
   videoJS!:VideoYT[];
   videoQU!:VideoYT[];
   
-
   constructor(public dataSvc:DataService,
     public youtubeSvc:YoutubeVideosService) { 
   }
@@ -29,12 +36,6 @@ export class EntretenimientoPageComponent implements OnInit {
       .pipe(
         tap((video: VideoYT[]) => this.videoQU = video)
       )
-      .subscribe()
-    
-
-      
+      .subscribe()   
   }
-
-  
-
-}
+} */

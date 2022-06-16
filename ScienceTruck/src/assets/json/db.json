@@ -1,0 +1,253 @@
+{
+    "divulgadores": [
+      {
+        "nombre": "Javier Santaolalla",
+        "foto_card": "./assets/DIVULGADORES/CJavier.jpeg",
+        "foto_inicio": "./assets/DIVULGADORES/IJaver.jpg",
+        "descripcion": "Estudió Ingeniería de Telecomunicación en la Universidad de Las Palmas de Gran Canaria3​ y es titulado en ciencias físicas por la Universidad Complutense de Madrid. Tras ser aceptado en el CERN para cursar un máster, se doctoró en física de partículas, también por la UCM, en 2012, con una tesis sobre los procesos electrodébiles en el decaimiento muónico en el experimento CMS del LHC.4​ También ha coordinado en España el proyecto de innovación educativa Creations, financiado por la Unión Europea.",
+        "informacion": "Nacio en Burgos, España, 31 de agosto de 1982) es un físico, ingeniero, doctor en física de partículas y divulgador científico español.1 Ha trabajado en el Centro Nacional de Estudios Espaciales en Francia, el CIEMAT y la Organización Europea para la Investigación Nuclear, donde formó parte del equipo que descubrió el bosón de Higgs a través del Experimento CMS del gran colisionador de hadrones."
+
+    }
+    ,
+
+    {
+        "nombre": "La Hiperactina",
+        "foto_card": "./assets/DIVULGADORES/CLaHiper.jpg",
+        "foto_inicio": "./assets/DIVULGADORES/ILaHiper.jpg",
+        "descripcion": "De pequeña quería ser pescadora y creadora de barcos, estudió cursos de interpretación para aspirar a ser actriz.",
+        "informacion": "Es de Barcelona, Cataluña, España. Estudió Ciencias Biomédicas (Biomedicina) en la Universidad de Barcelona y tiene un máster en Comunicación Científica. Es Comunicadora científica en el Instituto de Ciencias Fotónicas (ICFO) y co-dirige el podcast Tres Pies al Gato, y pone voz a la entidad ontológicamente incognoscible que es el Aleph en el podcast El Aleph Podcast."
+    }
+    ,
+
+    {
+        "nombre": "Quantumfrscture",
+        "foto_card": "./assets/DIVULGADORES/CQuantum.jpg",
+        "foto_inicio": "./assets/DIVULGADORES/IQuantum.jpg",
+        "descripcion": "Su vocación por la física empezó a los 14 años con el documental \"El Universo elegante\", de Brian Greene, sobre la teoría de cuerdas. Estudió física en la Universidad Autónoma de Madrid. Inspirado por otros youtubers como Kurzgesagt–In a Nutshell o MinutePhysics, empezó en YouTube, primero subiendo los vídeos de manera más esporádica. Luego tuvo un \"parón\" en el canal, porque hacía vídeos del mismo tipo pero para el canal del Instituto de Física Teórica IFT, en el que estuvo trabajando.",
+        "informacion": "Nacio el 19 de mayo de 1994, 28 años) mejor conocido como QuantumFracture es un youtuber, físico y divulgador de ciencia español, en su canal sube principalmente videos cortos que con animaciones narradas, los cuales tratan de explicar de la manera más sencilla o entendible cuestiones sobre física (del universo, cuántica, relatividad, desmontar mitos...) o algún otro tema relacionado con la ciencia."
+    },
+
+    {
+        "nombre": "Carl Sagan",
+        "foto_card": "./assets/DIVULGADORES/CCarl.jpg",
+        "foto_inicio": "./assets/DIVULGADORES/ICarl.jpg",
+        "descripcion": "Fue un defensor del pensamiento escéptico científico y del método científico, pionero de la exobiología, promotor de la búsqueda de inteligencia extraterrestre a través del proyecto SETI. Impulsó el envío de mensajes a bordo de sondas espaciales, destinados a informar a posibles civilizaciones extraterrestres acerca de la cultura humana. Mediante sus observaciones de la atmósfera de Venus, fue de los primeros científicos en estudiar el efecto invernadero a escala planetaria.",
+        "informacion": "Nacio en Nueva York, 9 de noviembre de 1934 - Seattle, 20 de diciembre de 1996) fue un astrónomo, astrofísico, cosmólogo, astrobiólogo, escritor y divulgador científico estadounidense. Inicialmente fue profesor asociado de la Universidad de Harvard y posteriormente profesor principal de la Universidad de Cornell. En esta última, fue el primer científico en ocupar la Cátedra David Duncan de Astronomía y Ciencias del Espacio, creada en 1976, y además director del Laboratorio de Estudios Planetarios"
+    }
+    ],
+    "Cientificos": [
+      {
+        "nombre": "Nikola Tesla",
+        "foto_card": "./assets/CIENTIFICOS/CNikola.jpg",
+        "foto_inicio": "./assets/CIENTIFICOS/INikola.jpeg",
+        "descripcion": "Nikola Tesla (en serbio, Smiljan, Imperio austríaco, actual Croacia; 10 de julio de 1856-Nueva York, 7 de enero de 1943) fue un inventor, ingeniero eléctrico y mecánico serbio nacionalizado estadounidense, célebre por sus contribuciones al diseño del moderno suministro de electricidad de corriente alterna (CA).",
+        "informacion": "Estudió ingeniería y física en la década de 1870 sin obtener un título, aunque adquirió experiencia práctica a principios de la década de 1880 trabajando en telefonía en la empresa Continental Edison en la nueva industria de la energía eléctrica. En 1884 emigró a Estados Unidos, donde adquirió la doble nacionalidad. Trabajó durante un corto tiempo en Edison Machine Works en Nueva York antes de emprender el camino por su cuenta.",
+        "video": "oESNo52Z-vo"
+    }
+   , 
+    {
+        "nombre": "Albert Einstein",
+        "foto_card": "./assets/CIENTIFICOS/CEinstein.jpg",
+        "foto_inicio": "./assets/CIENTIFICOS/IEinstein.jpg",
+        "descripcion": "Nació el 14 de marzo de 1879, en Ulm  (Alemania). Murió el 18 de abril de 1955, en Princeton (Estados Unidos de América).",
+        "informacion": "Es el científico mundialmente más conocido por el desarrollo de la Teoría de la Relatividad que revolucionó la ciencia conocida hasta el siglo XX. En 1921  obtuvo el Nobel de Física por sus explicaciones sobre el efecto fotoeléctrico e importante también fue el descubrimiento del movimiento browniano, auspiciado por Robert Brown en 1820 pero que había quedado sin explicación hasta entonces.",
+        "video": "hDpcDoxJuQo"
+
+    }
+    ,
+
+    {
+        "nombre": "Isaac Newton",
+        "foto_card": "./assets/CIENTIFICOS/CIsaac.jpg",
+        "foto_inicio": "./assets/CIENTIFICOS/IIsaac.jpg",
+        "descripcion": "Nació el 25 de diciembre de 1642, en Woolsthorpe, Lincolnshire, Inglaterra, es el más grande de los astrónomos ingleses; se destacó también como gran físico y matemático. ",
+        "informacion": "Fue en realidad un genio al cual debemos el descubrimiento de la ley de gravitación universal, que es una de las piedras angulares de la ciencia moderna. Fue uno de los inventores del cálculo diferencial e integral. Estableció las leyes de la mecánica clásica, y partiendo de la ley de gravitación universal dedujo las leyes de Kepler en forma más general. Logró construir el primer telescopio de reflexión. ",
+        "video": "uw2WhlxDdRQ"
+    }
+    ,
+
+    {
+        "nombre": "Stephen Hawking",
+        "foto_card": "./assets/CIENTIFICOS/CStephen.jpg",
+        "foto_inicio": "./assets/CIENTIFICOS/IStephen.jpg",
+        "descripcion": "Nació el 8 de enero de 1942, en plena Segunda Guerra Mundial, Stephen Hawking es miembro de la Real Sociedad de Londres, de la Academia Pontificia de las Ciencias y de la Academia Nacional de Ciencias de Estados Unidos. Y todo ello a pesar de sufrir una enfermedad motoneuronal que le impide moverse y hablar con normalidad.",
+        "informacion": "Stephen Hawking ha sido una de las mayores celebridades científicas desde Albert Einstein, cuya innovadora relatividad general no es sólo una teoría del espacio curvado, sino también del tiempo curvado o deformado, dijo Hawking. En el marco de la relatividad general contribuyó con el matemático Roger Penrose en el desarrollo de teoremas sobre las singularidades espaciotemporales, que demuestran que el universo comenzó con el Big Bang y que no siempre existió. El universo y el tiempo en sí mismo tuvieron un comienzo en el Big Bang, hace unos 15.000 millones de años. El comienzo del tiempo real tuvo que ser una singularidad, durante la cual se rompieron las leyes físicas, declaró el científico en una conferencia sobre el principio del tiempo.",
+        "video": "IaowBT1WhyI"
+    },
+
+    {
+        "nombre": "Richard Feynman",
+        "foto_card": "./assets/CIENTIFICOS/CRichard.jpg",
+        "foto_inicio": "./assets/CIENTIFICOS/IRichard.jpg",
+        "descripcion": "Nació en la ciudad de Nueva York, EE.UU., el 11 de mayo de 1918. Fue un niño travieso y así siguió siempre. A los 10 años empezó a coleccionar aparatos de radio viejos para su laboratorio de electrónica y a los 12 ya montaba sus propios aparatos.",
+        "informacion": "Estudió física en el Massachussets Institute of Technology (MIT), continuando su carrera en la Universidad de Princeton. Siendo estudiante en Princeton siguió con su ansia investigadora Por ejemplo, con los elementos procedentes de un microscopio realizó observaciones sobre las costumbres de las hormigas que entraban en su habitación e ideó experimentos para determinar como descubren las cosas. Obtuvo el grado de doctor en Física en 1942, con un trabajo sobre las ondas electromagnéticas supervisado por físico nuclear estadounidense John Wheeler. Entre la audiencia se encontraban científicos como Einstein, Pauli y von Neumann.",
+        "video": "K5l5rSxB8nY"
+    },
+
+    {
+        "nombre": "Carl Sagan",
+        "foto_card": "./assets/CIENTIFICOS/CCarl.jpg",
+        "foto_inicio": "./assets/CIENTIFICOS/ICarl.jpg",
+        "descripcion": " Nació en Nueva York el 9 de noviembre de 1934 y murio en Seattle el 20 de diciembre de 1996 fue un astrónomo, astrofísico, cosmólogo, astrobiólogo, escritor y divulgador científico estadounidense. Inicialmente fue profesor asociado de la Universidad de Harvard y posteriormente profesor principal de la Universidad de Cornell.",
+        "informacion": "Uno de los mayores divulgadores científicos de la historia, quien a través de su serie de televisión Cosmos, en los años 1980, convirtió la ciencia en parte de la cultura de masas. Contagió a más de 400 millones de telespectadores su pasión por la astronomía y trató de inculcarles el poder de la lógica para el pensamiento escéptico.",
+        "video": "KZfU08fAoxo"
+    },
+
+    {
+        "nombre": "Michael Faraday",
+        "foto_card": "./assets/CIENTIFICOS/CMichael.jpg",
+        "foto_inicio": "./assets/CIENTIFICOS/IMichael.jpg",
+        "descripcion": "Nació el 2 de septiembre de 1791-Hampton Court y murio el 25 de agosto de 1867  , fue un científico británico que estudió el electromagnetismo y la electroquímica. Sus principales descubrimientos incluyen la inducción electromagnética, el diamagnetismo y la electrólisis.",
+        "informacion": "Fue uno de los científicos más influyentes de la historia.1​ Mediante su estudio del campo magnético alrededor de un conductor por el que circula corriente continua, fijó las bases para el desarrollo del concepto de campo electromagnético. También estableció que el magnetismo podía afectar a los rayos de luz y que había una relación subyacente entre ambos fenómenos​ Descubrió asimismo el principio de inducción electromagnética, el diamagnetismo, las leyes de la electrólisis e inventó algo que él llamó dispositivos de rotación electromagnética, que fueron los precursores del actual motor eléctrico.",
+        "video": "PQL3H42Kgvo"
+    },
+
+    {
+        "nombre": "Erwin Schrodinger",
+        "foto_card": "./assets/CIENTIFICOS/CErwin.jpg",
+        "foto_inicio": "./assets/CIENTIFICOS/IErwin.jpg",
+        "descripcion": "Nació en Viena, 12 de agosto de 1887 y murió el 4 de enero de 1961, fue un físico austríaco, nacionalizado irlandés, que realizó importantes contribuciones en los campos de la mecánica cuántica y la termodinámica.",
+        "informacion": "Recibió el Premio Nobel de Física en 1933 por haber desarrollado la ecuación de Schrödinger, compartido con Paul Dirac. Tras mantener una larga correspondencia con Albert Einstein propuso el experimento mental del gato de Schrödinger que mostraba las paradojas e interrogantes a los que abocaba la física cuántica",
+        "video": "040mOkRx0Pk"
+    },
+
+    {
+        "nombre": "Galileo Galilei",
+        "foto_card": "./assets/CIENTIFICOS/CGalileo.jpg",
+        "foto_inicio": "./assets/CIENTIFICOS/IGalileo.jpg",
+        "descripcion": "Nació en Pisa, Toscana; 15 de febrero de 1564, murió en Arcetri, Toscana; 8 de enero de 1642,​ fue un astrónomo, ingeniero, filósofo, matemático​ y físico italiano, relacionado estrechamente con la revolución científica. Eminente hombre del Renacimiento, mostró interés por casi todas las ciencias y artes (música, literatura, pintura). ",
+        "informacion": "Sus logros incluyen la mejora del telescopio, gran variedad de observaciones astronómicas, la primera ley del movimiento y un apoyo determinante a la Revolución de Copérnico. Ha sido considerado como el «padre de la astronomía moderna, el padre de la física moderna y el padre de la ciencia. Su trabajo experimental es considerado complementario a los escritos de Francis Bacon en el establecimiento del moderno método científico y su carrera científica es complementaria a la de Johannes Kepler (1561-1630). Su trabajo se considera una ruptura de las teorías asentadas de la física aristotélica y su enfrentamiento con la Inquisición romana de la Iglesia católica se presenta como un ejemplo de conflicto entre religión y ciencia en la sociedad occidental.",
+        "video": "k-rG5l1JEGo"
+    },
+
+    {
+        "nombre": "Marie Curie",
+        "foto_card": "./assets/CIENTIFICOS/CMarie.jpg",
+        "foto_inicio": "./assets/CIENTIFICOS/IMarie.jpg",
+        "descripcion": " Nació en Varsovia, 7 de noviembre de 1867 y murió en Passy, 4 de julio de 1934, fue una física y química polaca nacionalizada francesa. Pionera en el campo de la radiactividad, fue la primera persona en recibir dos premios Nobel en distintas especialidades: Física y Química.",
+        "informacion": "Fue la primera mujer en ocupar el puesto de profesora en la Universidad de París y la primera en recibir sepultura con honores en el Panteón de París por méritos propios en 1995.",
+        "video": "0Fh2Nw_W_UU"
+    }
+    ],
+    "videos_JS":[
+        {
+            "id" : "4gfC_FHVEU4"
+        },{
+            "id" : "atSi4_Wzu4I"  
+        },{
+            "id" : "fGbDP6TyOZA"
+        },{
+            "id" : "1NC3k61tszw"
+        },{
+            "id" : "tyLUBtJmDyc"
+        },{
+            "id" : "YNPvBU43oYg"
+        },{
+            "id" : "H4n2trgI4Kw"
+        },{
+            "id" : "GyjVpuBxQ9o"
+        },{
+            "id" : "Gm0tYokffMU"
+        },{
+            "id" : "xYo-LIPQoyQ"
+        },{
+            "id" : "ttjM-dMPddY"
+        },{
+            "id" : "EfJMrMFYH84"
+        },{
+            "id" : "1GgFAYX5Y3I"
+        },{
+            "id" : "EfNZYutOVkc"
+        },{
+            "id" : "PmPjkN4JuEk"
+        },{
+            "id" : "sShD4ZE-Wq4"
+        },{
+            "id" : "A7ecorA8SWA"
+        },{
+            "id" : "y5vJ25r7qLo"
+        },{
+            "id" : "-mdLUpItVNo"
+        },{
+            "id" : "51eKa53kNAY"
+        },{
+            "id" : "mTh7PbyyA0I"
+        },{
+            "id" : "P9mMYYq493c"
+        },{
+            "id" : "m4kEFqun1Fo"
+        },{
+            "id" : "G3HrMsdtm3s"
+        },{
+            "id" : "vZZSyVyo3dQ"
+        },{
+            "id" : "fkEY_mUTBDI"
+        },{
+            "id" : "1BpTBzDQuRE"
+        },{
+            "id" : "lT4OLf4yyuU"
+        },{
+            "id" : "01bYB64C6dk"
+        },{
+            "id" : "RTlixJv7gWo"
+        }
+    ],
+    "videos_QU":[
+        {
+            "id" : "51eKa53kNAY"
+        },{
+            "id" : "mTh7PbyyA0I"
+        },{
+            "id" : "P9mMYYq493c"
+        },{
+            "id" : "m4kEFqun1Fo"
+        },{
+            "id" : "G3HrMsdtm3s"
+        },{
+            "id" : "vZZSyVyo3dQ"
+        },{
+            "id" : "fkEY_mUTBDI"
+        },{
+            "id" : "1BpTBzDQuRE"
+        },{
+            "id" : "lT4OLf4yyuU"
+        },{
+            "id" : "01bYB64C6dk"
+        },{
+            "id" : "RTlixJv7gWo"
+        }
+    ],
+    "videos_SH":[
+        {
+            "id" : "M6KMsepYA68"
+        },
+        {
+            "id" : "aso9ybSpYgY"
+        },
+        {
+            "id" : "jKJRQ_obPwE"
+        },
+        {
+            "id" : "OFK-OSJmw9g"
+        },
+        {
+            "id" : "dT6Qx2dD5P4"
+        },
+        {
+            "id" : "-xLxzFfFHzU"
+        },
+        {
+            "id" : "Rh-9dr0ucvY"
+        },
+        {
+            "id" : "vAoOGKp0axk"
+        },
+        {
+            "id" : "l7em-XWLuSw"
+        },
+        {
+            "id" : "wHeN0TEs2BI"
+        }
+
+    ]
+  }
